@@ -16,3 +16,43 @@
 2020-12-08 10:56:58 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
 2020-12-08 10:57:04 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
 2020-12-08 10:57:06 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2020-12-08 11:07:45 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:08:46 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:08:52 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:08:57 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:09:21 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:09:30 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:07 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:10 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:11 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:11 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:11 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:11 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:12 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:12 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:12 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:12 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:12 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:12 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:13 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:13 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 11:26:13 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 12:58:05 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 12:58:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 12:58:49 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2020-12-08 12:58:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2020-12-08 12:59:08 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-08 13:02:00 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2020-12-10 11:40:02 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\zee12\system\library\db\mysqli.php on line 7
+2020-12-10 11:40:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\zee12\system\library\db\mysqli.php on line 10
+2020-12-10 11:40:02 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\zee12\system\library\db\mysqli.php on line 10
+2020-12-10 12:36:42 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-10 12:42:57 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-10 13:06:38 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-10 13:12:59 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-10 13:13:19 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-14 2:39:39 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-14 2:39:54 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-14 2:40:12 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2020-12-14 2:40:14 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
