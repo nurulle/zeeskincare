@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8080/zee12/');
+define('HTTP_SERVER', 'http://localhost:80/zee12/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8080/zee12/');
+define('HTTPS_SERVER', 'http://localhost:80/zee12/');
 
 // DIR
 define('DIR_APPLICATION', 'C:/xampp/htdocs/zee12/catalog/');

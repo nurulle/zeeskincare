@@ -56,3 +56,30 @@
 2020-12-14 2:39:54 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
 2020-12-14 2:40:12 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
 2020-12-14 2:40:14 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2020-12-20 16:39:22 - PHP Notice:  Undefined index: recurring_id in C:\xampp\htdocs\zee12\admin\model\catalog\product.php on line 198
+2020-12-20 16:42:03 - PHP Notice:  Undefined index: recurring_id in C:\xampp\htdocs\zee12\admin\model\catalog\product.php on line 198
+2020-12-20 16:45:27 - PHP Notice:  Undefined index: recurring_id in C:\xampp\htdocs\zee12\admin\model\catalog\product.php on line 198
+2020-12-21 1:36:07 - PHP Notice:  Undefined index: recurring_id in C:\xampp\htdocs\zee12\admin\model\catalog\product.php on line 198
+2020-12-21 3:08:49 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:15:44 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:15:48 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:16:13 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:16:20 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:16:46 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:16:58 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:19:33 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:43:03 - PHP Notice:  Undefined index: recurring_id in C:\xampp\htdocs\zee12\admin\model\catalog\product.php on line 198
+2020-12-21 3:44:00 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:44:04 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:44:13 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:45:11 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:45:22 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2020-12-21 3:48:58 - PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\zee12\catalog\model\extension\total\shipping.php on line 24
+2021-01-03 5:13:33 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-03 5:15:10 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-03 5:15:12 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-04 21:38:42 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-04 21:38:44 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-05 1:06:08 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-05 1:11:46 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77
+2021-01-05 1:11:48 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\zee12\system\library\mail\mail.php on line 77

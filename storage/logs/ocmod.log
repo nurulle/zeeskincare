@@ -91,3 +91,331 @@ FILE: catalog/view/theme/default/template/checkout/payment_method.twig
 CODE: {{ payment_method.title }}
 LINE: 18
 ----------------------------------------------------------------
+2020-12-21 1:59:19 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 30
+LINE: 36
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Payment Bank Transfer
+
+FILE: catalog/view/theme/default/template/checkout/payment_method.twig
+CODE: {{ payment_method.title }}
+LINE: 18
+----------------------------------------------------------------
+MOD: [underr] Price Range
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <label class="col-sm-2 control-label" for="input-price">{{ entry_price }}</label>
+LINE: 145
+CODE: name="price"
+LINE: 149
+CODE: name="price"
+LINE: 160
+----------------------------------------------------------------
+2020-12-21 3:31:32 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 30
+LINE: 36
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Payment Bank Transfer
+
+FILE: catalog/view/theme/default/template/checkout/payment_method.twig
+CODE: {{ payment_method.title }}
+LINE: 18
+----------------------------------------------------------------
+MOD: [underr] Price Range
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <label class="col-sm-2 control-label" for="input-price">{{ entry_price }}</label>
+LINE: 145
+CODE: name="price"
+LINE: 149
+CODE: name="price"
+LINE: 160
+----------------------------------------------------------------
+2020-12-21 3:32:28 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 30
+LINE: 36
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Payment Bank Transfer
+
+FILE: catalog/view/theme/default/template/checkout/payment_method.twig
+CODE: {{ payment_method.title }}
+LINE: 18
+----------------------------------------------------------------
+MOD: [underr] Price Range
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <label class="col-sm-2 control-label" for="input-price">{{ entry_price }}</label>
+LINE: 145
+CODE: name="price"
+LINE: 149
+CODE: name="price"
+LINE: 160
+----------------------------------------------------------------
+2020-12-21 3:41:03 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 30
+LINE: 36
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: JNT Express Shipping
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <div class="pull-right">
+LINE: 15
+CODE: <td class="text-right">{{ column_action }}</td>
+LINE: 126
+CODE: <td class="text-left">{{ order.date_modified }}</td>
+LINE: 146
+
+FILE: admin/controller/sale/order.php
+CODE: $data['invoice'] = $this->url->link('sale/order/invoice', 'user_token=' . $this->session->data['user_token'], true);
+LINE: 207
+CODE: public function shipping() {
+LINE: 2523
+CODE: 'shipping_code' => $result['shipping_code'],
+LINE: 240
+
+FILE: admin/model/sale/order.php
+CODE: public function getOrderTotals($order_id) {
+LINE: 392
+----------------------------------------------------------------
+MOD: Payment Bank Transfer
+
+FILE: catalog/view/theme/default/template/checkout/payment_method.twig
+CODE: {{ payment_method.title }}
+LINE: 18
+----------------------------------------------------------------
+MOD: [underr] Price Range
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <label class="col-sm-2 control-label" for="input-price">{{ entry_price }}</label>
+LINE: 145
+CODE: name="price"
+LINE: 149
+CODE: name="price"
+LINE: 160
+----------------------------------------------------------------
+2020-12-21 3:42:04 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 30
+LINE: 36
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: JNT Express Shipping
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <div class="pull-right">
+LINE: 15
+CODE: <td class="text-right">{{ column_action }}</td>
+LINE: 126
+CODE: <td class="text-left">{{ order.date_modified }}</td>
+LINE: 146
+
+FILE: admin/controller/sale/order.php
+CODE: $data['invoice'] = $this->url->link('sale/order/invoice', 'user_token=' . $this->session->data['user_token'], true);
+LINE: 207
+CODE: public function shipping() {
+LINE: 2523
+CODE: 'shipping_code' => $result['shipping_code'],
+LINE: 240
+
+FILE: admin/model/sale/order.php
+CODE: public function getOrderTotals($order_id) {
+LINE: 392
+----------------------------------------------------------------
+MOD: Payment Bank Transfer
+
+FILE: catalog/view/theme/default/template/checkout/payment_method.twig
+CODE: {{ payment_method.title }}
+LINE: 18
+----------------------------------------------------------------
+MOD: [underr] Price Range
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <label class="col-sm-2 control-label" for="input-price">{{ entry_price }}</label>
+LINE: 145
+CODE: name="price"
+LINE: 149
+CODE: name="price"
+LINE: 160
+----------------------------------------------------------------
+2020-12-21 3:47:48 - MOD: Modification Default
+
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 48
+LINE: 106
+LINE: 118
+
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 30
+LINE: 36
+
+FILE: system/library/template/twig.php
+CODE: $loader = new \Twig_Loader_Filesystem(DIR_TEMPLATE);
+LINE: 19
+----------------------------------------------------------------
+MOD: Delhivery Lastmile By Axis Web Art
+
+FILE: admin/language/en-gb/common/column_left.php
+CODE: // Text
+LINE: 6
+
+FILE: admin/controller/common/column_left.php
+CODE: $customer = array();
+LINE: 326
+
+FILE: admin/controller/sale/order.php
+CODE: $this->response->setOutput($this->load->view('sale/order_info', $data));
+LINE: 1520
+
+FILE: admin/view/template/sale/order_info.twig
+CODE: <div class="page-header">
+LINE: 17
+----------------------------------------------------------------
+MOD: JNT Express Shipping
+
+FILE: admin/view/template/sale/order_list.twig
+CODE: <div class="pull-right">
+LINE: 15
+CODE: <td class="text-right">{{ column_action }}</td>
+LINE: 126
+CODE: <td class="text-left">{{ order.date_modified }}</td>
+LINE: 146
+CODE: $data['invoice'] = $this->url->link('sale/order/invoice', 'user_token=' . $this->session->data['user_token'], true);
+LINE: 207
+CODE: public function shipping() {
+LINE: 2793
+CODE: 'shipping_code' => $result['shipping_code'],
+LINE: 240
+
+FILE: admin/model/sale/order.php
+CODE: public function getOrderTotals($order_id) {
+LINE: 392
+----------------------------------------------------------------
+MOD: Payment Bank Transfer
+
+FILE: catalog/view/theme/default/template/checkout/payment_method.twig
+CODE: {{ payment_method.title }}
+LINE: 18
+----------------------------------------------------------------
+MOD: [underr] Price Range
+
+FILE: admin/view/template/catalog/product_form.twig
+CODE: <label class="col-sm-2 control-label" for="input-price">{{ entry_price }}</label>
+LINE: 145
+CODE: name="price"
+LINE: 149
+CODE: name="price"
+LINE: 160
+----------------------------------------------------------------
